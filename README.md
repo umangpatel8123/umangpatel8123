@@ -13,3 +13,4 @@ My name is Umang Patel
 <br />
 🌱 Currently pursuing Computer Science & Engineering at CHARUSAT University [2021-2025]
 <br />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=umangpatel8123)](https://git.io/streak-stats)
